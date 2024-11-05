@@ -1,0 +1,16 @@
+{
+    "button": {
+        "label": "Contact",
+        "link": "/contact"
+    },
+    "items": [
+        {
+            "label": "E-mail",
+            "value": "contact@media360.ch"
+        },
+        {
+            "label": "Numéro",
+            "value": "+41 78 832 42 23"
+        }
+    ]
+}

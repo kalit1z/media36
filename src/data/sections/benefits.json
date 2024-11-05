@@ -1,0 +1,31 @@
+{
+    "title": "Nos Solutions",
+    "subtitle": "Votre succès digital sur mesure",
+    "description": "Nous concevons et déployons des solutions web complètes pour dynamiser votre présence en ligne. De la création de votre site jusqu'à l'optimisation de vos performances, nous vous accompagnons à chaque étape.",
+    "items": [
+    {
+    "icon": "/img/icons/4.svg",
+    "title": "Création Web",
+    "text": "Sites vitrines, e-commerce et applications web sur mesure avec un design moderne et responsive.",
+    "link": "/services"
+    },
+    {
+    "icon": "/img/icons/9.svg",
+    "title": "Acquisition",
+    "text": "Stratégies SEO, campagnes publicitaires et marketing digital pour augmenter votre visibilité.",
+    "link": "/services"
+    },
+    {
+    "icon": "/img/icons/12.svg",
+    "title": "Analyse & Mesure",
+    "text": "Suivi détaillé de vos performances et KPIs pour identifier les opportunités d'amélioration.",
+    "link": "/services"
+    },
+    {
+    "icon": "/img/icons/7.svg",
+    "title": "Optimisation",
+    "text": "Amélioration continue de vos conversions et de l'expérience utilisateur pour maximiser vos résultats.",
+    "link": "/services"
+    }
+    ]
+    }

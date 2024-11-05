@@ -1,0 +1,34 @@
+{
+    "title": "Notre Évolution",
+    "description": "Découvrez les étapes clés de notre parcours et comment nous avons développé nos services au fil des ans. Chaque étape reflète notre engagement à offrir des solutions innovantes et adaptées aux besoins de nos clients.",
+    "button": {
+        "link": "/projects",
+        "label": "Voir Tous les Projets"
+    },
+    "image": {
+        "url": "/img/photo/2.webp",
+        "alt": "image de notre évolution"
+    },
+    "items": [
+        {
+            "title": "Lancement de la Refonte de Sites",
+            "year": "2021",
+            "image": "/img/photo/1.webp"
+        },
+        {
+            "title": "Début des Campagnes d'Acquisition de Trafic",
+            "year": "2022",
+            "image": "/img/photo/2.webp"
+        },
+        {
+            "title": "Lancement de Sites E-Commerce et sur Mesure",
+            "year": "2023",
+            "image": "/img/photo/5.webp"
+        },
+        {
+            "title": "Optimisation du Référencement Naturel",
+            "year": "2024",
+            "image": "/img/photo/4.webp"
+        }
+    ]
+}

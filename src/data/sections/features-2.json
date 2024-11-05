@@ -1,0 +1,37 @@
+{
+    "items": [
+        {
+            "title": "Création de <br> Site Web",
+            "text": "La création d'un site web est la base d'une visibilité en ligne efficace. Nous concevons des sites sur mesure qui captivent vos visiteurs.",
+            "list": [
+                "Conception ergonomique",
+                "Optimisation pour le mobile",
+                "Intégration SEO dès la création",
+                "Vitesse de chargement améliorée",
+                "Conversion des visiteurs en clients"
+            ]
+        },
+        {
+            "title": "Acquisition de <br> Trafic",
+            "text": "L'acquisition de trafic est essentielle pour attirer de nouveaux clients. Nos stratégies ciblées garantissent une visibilité accrue.",
+            "list": [
+                "Référencement naturel (SEO)",
+                "Publicité en ligne (Ads)",
+                "Marketing sur les réseaux sociaux",
+                "Partenariats et affiliations",
+                "Content marketing"
+            ]
+        },
+        {
+            "title": "Analyse & <br> Optimisation",
+            "text": "L'analyse et l'optimisation permettent d'améliorer constamment vos performances en ligne. Nous fournissons des outils pour un suivi précis.",
+            "list": [
+                "Tableaux de bord personnalisés",
+                "Suivi des performances en temps réel",
+                "Analyse des comportements des utilisateurs",
+                "Optimisation du retour sur investissement",
+                "Tests A/B pour améliorer les conversions"
+            ]
+        }
+    ]
+}

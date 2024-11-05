@@ -1,0 +1,21 @@
+{
+    "title": "Ce Que Nous Faisons",
+    "description": "Découvrez comment notre agence combine créativité et expertise pour propulser votre présence en ligne. Nous proposons des solutions sur-mesure pour chaque étape de votre croissance digitale, de la création de sites web à l'acquisition de trafic, en passant par l'optimisation de vos performances.",
+    "items": [
+        {
+            "title": "Création de Sites Web",
+            "text": "Nous concevons des sites web personnalisés, modernes et performants, adaptés à votre marque et optimisés pour offrir une expérience utilisateur exceptionnelle. De la vitrine au e-commerce, chaque site est pensé pour transformer les visiteurs en clients.",
+            "link": "/services/creation-site-web"
+        },
+        {
+            "title": "Acquisition de Trafic",
+            "text": "Nous développons des stratégies de marketing digital pour attirer un trafic qualifié vers votre site. Que ce soit par le référencement naturel, les campagnes payantes, ou les réseaux sociaux, nous mettons en place des actions pour accroître votre visibilité et attirer votre audience cible.",
+            "link": "/services/acquisition-trafic"
+        },
+        {
+            "title": "Analyse et Optimisation",
+            "text": "Nous mesurons et analysons les performances de votre site et de vos campagnes pour identifier les opportunités d’amélioration. Grâce à des outils d’analyse avancés, nous optimisons l'acquisition de trafic, en passant par l'optimisation de vos performances.",
+            "link": "/services/analyse-optimisation"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "bg_image": "/img/photo/1.webp",
+    "title": "Votre présence<br/><span class=\"mil-accent\"> digitale</span><br/>notre mission",
+    "subtitle": "Media360",
+    "button": {
+        "link": "/projects",
+        "label": "Nos Réalisations"
+    },
+    "numbers": [
+        {
+            "value": "43",
+            "afterValue": "+",
+            "label": "Sites web <br/>développés"
+        },
+        {
+            "value": "95",
+            "afterValue": "%",
+            "label": "Taux de <br/>satisfaction"
+        },
+        {
+            "value": "10",
+            "afterValue": " jours",
+            "label": "Délai de <br/>réalisation"
+        },
+        {
+            "value": "4",
+            "afterValue": " ans",
+            "label": "Années <br/>d'expérience"
+        }
+    ]
+}

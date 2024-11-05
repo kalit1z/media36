@@ -1,0 +1,34 @@
+{
+    "title": "Présentation des Services",
+    "subtitle": "Nos Domaines d'Expertise",
+    "slides": [
+        [
+            {
+                "title": "Marketing Digital",
+                "text": "Nous proposons des stratégies de marketing digital complètes, y compris le référencement naturel (SEO), la gestion des réseaux sociaux, et l'email marketing."
+            },
+            {
+                "title": "Création de Sites Web",
+                "text": "Notre équipe conçoit des sites web adaptés à vos besoins, que ce soit des sites vitrines pour présenter votre activité ou des plateformes e-commerce pour vendre vos produits."
+            },
+            {
+                "title": "Design UX/UI",
+                "text": "Nous créons des designs attrayants et intuitifs qui améliorent l'expérience utilisateur. Notre approche UX/UI garantit que chaque interaction sur votre site soit agréable et engageante."
+            }
+        ],
+        [
+            {
+                "title": "Approche Personnalisée",
+                "text": "Nous croyons en une collaboration étroite avec nos clients. Chaque projet commence par une phase d'écoute pour bien comprendre vos objectifs et vos défis."
+            },
+            {
+                "title": "Méthodologie de Travail",
+                "text": "Nous adoptons une méthodologie agile qui nous permet de nous adapter rapidement aux changements et de vous impliquer à chaque étape du projet. "
+            },
+            {
+                "title": "Suivi et Optimisation",
+                "text": "Après la mise en œuvre de nos services, nous continuons à analyser les performances pour optimiser les résultats. Nous restons à vos côtés pour ajuster nos stratégies en fonction de l'évolution de votre marché."
+            }
+        ]
+    ]
+}

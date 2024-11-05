@@ -1,0 +1,25 @@
+{
+    "title": "Notre Vision",
+    "subtitle": "Une Vision Inspirante",
+    "button": {
+        "label": "En savoir plus",
+        "link": "/blog"
+    },
+    "items": [
+        {
+            "title": "Visibilité Digitale",
+            "icon": "/img/icons/11.svg",
+            "text": "Nous croyons qu'une visibilité digitale est primordiale pour toute entreprise, quelle qu'elle soit."
+        },
+        {
+            "title": "Analyse et Performance",
+            "icon": "/img/icons/11.svg",
+            "text": "Nous croyons que de bonnes analyses et une vue d'ensemble sur les chiffres sont la clé pour une entreprise prospère."
+        },
+        {
+            "title": "Équipe et Compétences",
+            "icon": "/img/icons/11.svg",
+            "text": "Nous croyons surtout en nos équipes et en leurs compétences, qui permettent de réaliser des projets d'exception."
+        }
+    ]
+}

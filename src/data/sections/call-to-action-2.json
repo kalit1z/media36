@@ -1,0 +1,13 @@
+{
+    "title": "Lancez votre projet dès aujourd'hui",
+    "subtitle": "Transformez vos idées en réalité",
+    "phone": {
+        "label": "Notre WhatsApp",
+        "value": "41788324223"
+    },
+    "button": {
+        "label": "Contactez-nous",
+        "link": "/contact"
+    },
+    "bg_image": "/img/photo/11.webp"
+}

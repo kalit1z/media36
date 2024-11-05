@@ -1,0 +1,110 @@
+{
+    "settings": {
+        "siteName": "Media360",
+        "siteDescription": "Media360 : l'agence suisse qui digitalise votre entreprise. Boostez votre visibilité en ligne grâce à des méthodes éprouvées et attirez plus de clients !",
+        "formspreeURL": "https://formspree.io/f/xkndjywo",
+        "mailchimp": {
+            "url": "",
+            "key": ""
+        },
+        "perPage": 6
+    },
+    "header": {
+        "logo": {
+            "image": "/img/logo/logo-light.webp",
+            "alt": "Logo Media360"
+        },
+        "menu": [
+            {
+                "label": "À Propos",
+                "link": "/about",
+                "children": [
+                    {
+                        "label": "Qui sommes-nous ?",
+                        "link": "/about"
+                    },
+                    {
+                        "label": "Découvrez notre équipe",
+                        "link": "/team"
+                    }
+                ]
+            },
+            {
+                "label": "Nos Prestations",
+                "link": "/services"
+            },
+            {
+                "label": "Nos Réalisations",
+                "link": "/projects"
+            },
+            {
+                "label": "Contactez-nous",
+                "link": "/contact"
+            }
+            
+        ]
+    },
+    "footer": {
+        "logo": {
+            "image": "/img/logo/logo-light.webp",
+            "alt": "Logo"
+        },
+        "copy": "© 2024 Media360. Tous droits réservés.",
+        "menu": [
+            {
+                "label": "Mentions Légales",
+                "link": "/legal"
+            },
+            {
+                "label": "Blog",
+                "link": "/blog"
+            },
+            {
+                "label": "Contact",
+                "link": "/contact"
+            }
+        ]
+    },
+    "social": [
+        {
+            "link": "",
+            "title": ""
+        },
+        {
+            "link": "",
+            "title": ""
+        },
+        {
+            "link": "",
+            "title": ""
+        },
+        {
+            "link": "",
+            "title": ""
+        }
+    ],
+    "projects": {
+        "categories": [
+            {
+                "name": "Blog",
+                "slug": "blog"
+            }
+        ]
+    },
+    "team": {
+        "categories": [
+            {
+                "name": "Manager",
+                "slug": "manager"
+            },
+            {
+                "name": "Developer",
+                "slug": "developer"
+            },
+            {
+                "name": "Community Manager",
+                "slug": "community"
+            }
+        ]
+    }
+}

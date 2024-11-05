@@ -1,0 +1,32 @@
+{
+    "bg_image": "/img/photo/3.webp",
+    "title": "questions fréquentes",
+    "subtitle": "FAQ",
+    "description": "Trouvez des réponses aux questions les plus courantes concernant nos services et notre approche.",
+    "button": {
+        "link": "/contact",
+        "label": "Contactez-nous pour plus d'infos"
+    },
+    "items": [
+        {
+            "title": "Quels services offrez-vous ?",
+            "text": "Nous proposons des services de création de sites web, marketing digital, optimisation SEO, et développement de stratégies de contenu adaptées à vos besoins."
+        },
+        {
+            "title": "Quel est votre processus de travail ?",
+            "text": "Nous commençons par une consultation pour comprendre vos besoins, suivie de l'élaboration d'une stratégie sur mesure que nous mettons en œuvre et optimisons en continu."
+        },
+        {
+            "title": "Comment garantissez-vous la qualité ?",
+            "text": "Nous avons une équipe d'experts passionnés qui utilise des méthodes éprouvées et des outils avancés pour garantir la qualité et l'efficacité de chaque projet."
+        },
+        {
+            "title": "Comment suivre les résultats de mes projets ?",
+            "text": "Nous fournissons des rapports réguliers et des tableaux de bord personnalisés pour vous permettre de suivre les performances et d’ajuster vos stratégies."
+        },
+        {
+            "title": "Travaillez-vous avec toutes les tailles d'entreprises ?",
+            "text": "Oui, nous collaborons avec des startups ainsi que des grandes entreprises, en adaptant nos services en fonction de vos exigences spécifiques."
+        }
+    ]
+}

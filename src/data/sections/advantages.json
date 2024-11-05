@@ -1,0 +1,23 @@
+{
+    "title": "Media360 S’occupe de Tout <u>pour Vous !<u/> ",
+    "subtitle": "Nos Avantages",
+    "description": "De la première prise de contact à la mise en œuvre de votre stratégie, nous gérons chaque étape <br/> pour maximiser votre impact.",
+    "items": [
+        {
+            "title": "Contact Initial",
+            "text": "Nous commençons par vous écouter attentivement. Ensemble, nous définissons vos objectifs, et les défis à relever pour créer une solution sur mesure."
+        },
+        {
+            "title": "Planification",
+            "text": "Nos experts élaborent une stratégie personnalisée qui s’aligne avec vos ambitions. Chaque étape est pensée pour répondre à vos besoins spécifiques."
+        },
+        {
+            "title": "Mise en Œuvre",
+            "text": "Media360 transforme la stratégie en actions concrètes. Nous concevons et mettons en place chaque élément pour garantir des résultats efficaces et mesurables."
+        },
+        {
+            "title": "Suivi et Optimisation",
+            "text": "Nous surveillons de près les performances, apportons des ajustements et optimisons chaque aspect pour maximiser votre retour sur investissement."
+        }
+    ]
+}

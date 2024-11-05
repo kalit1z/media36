@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "image": "/img/partners/1.webp",
+            "alt": "logo"
+        },
+        {
+            "image": "/img/partners/2.webp",
+            "alt": "logo"
+        },
+        {
+            "image": "/img/partners/3.webp",
+            "alt": "logo"
+        },
+        {
+            "image": "/img/partners/4.webp",
+            "alt": "logo"
+        },
+        {
+            "image": "/img/partners/5.webp",
+            "alt": "logo"
+        },
+        {
+            "image": "/img/partners/6.webp",
+            "alt": "logo"
+        }
+    ]
+}

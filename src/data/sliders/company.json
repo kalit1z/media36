@@ -1,0 +1,38 @@
+{
+    "title": "Nous offrons des <span class=\"mil-marker\"</span>solutions",
+    "subtitle": "Notre Agence",
+    "description": "Chez Media360, nous sommes passionnés par le marketing digital et la création de sites web. Notre mission est de fournir des solutions innovantes et adaptées à vos besoins, tout en vous accompagnant à chaque étape de votre projet. Que vous soyez une petite entreprise ou une grande marque, nous avons les compétences pour vous propulser vers le succès.",
+    "signature": {
+        "name": "Lucas De Matos",
+        "subname": "Fondateur et Directeur",
+        "text": "L.matos"
+    },
+    "links": [
+        {
+            "title": "Marketing Digital",
+            "link": "/services/creation-site-web"
+        },
+        {
+            "title": "Création de Sites Web",
+            "link": "/services/acquisition-trafic"
+        },
+        {
+            "title": "Analyse et Optimisation",
+            "link": "/services/analyse-optimisation"
+        }
+    ],
+    "items": [
+        {
+            "image": "/img/photo/2.webp",
+            "alt": "image de marketing digital"
+        },
+        {
+            "image": "/img/photo/8.webp",
+            "alt": "image de création de site web"
+        },
+        {
+            "image": "/img/photo/7.webp",
+            "alt": "image d'analyse de données"
+        }
+    ]
+}

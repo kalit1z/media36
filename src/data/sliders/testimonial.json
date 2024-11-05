@@ -1,0 +1,25 @@
+{
+    "title": "Ce que nos clients disent",
+    "subtitle": "Témoignages",
+    "items": [
+        {
+            "name": "Bekim Alili",
+            "image": "/img/faces/5.webp",
+            "role": "Petinesca",
+            "text": "Media360 a été un partenaire essentiel pour notre transformation numérique. Leur écoute et leur compréhension de nos besoins ont fait toute la différence. Grâce à eux, notre site web attire beaucoup plus de visiteurs, et nous avons déjà vu une augmentation des ventes."
+        },
+        {
+            "name": "Pierre Penchot",
+            "image": "/img/faces/1.webp",
+            "role": "Jardins Passion",
+            "text": "L'équipe de Media360 a surpassé nos attentes. Ils ont créé un site web qui non seulement est esthétique, mais qui fonctionne également de manière optimale. La communication était fluide tout au long du projet, ce qui a rendu l'expérience encore meilleure."
+        },
+        {
+            "name": "Jean Kellerman",
+            "image": "/img/faces/3.webp",
+            "role": "Mon Annuaire Avocat",
+            "text": "Je suis extrêmement satisfait des services de Media360. Ils ont pris le temps de comprendre ma vision et l'ont réalisée avec précision. Leur expertise en marketing digital a été un véritable atout pour ma croissance."
+        }
+    ],
+    "showPartners": 1
+}

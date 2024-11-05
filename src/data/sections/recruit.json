@@ -1,0 +1,18 @@
+{
+    "title": "Intéressé à Travailler Ensemble ?",
+    "subtitle": "Votre Avenir",
+    "description": "Rejoindre notre équipe, c'est plus qu'un simple emploi. C'est une opportunité de grandir, d'apprendre et de contribuer à des projets passionnants. Nous croyons en la collaboration et en l'innovation, et nous sommes impatients de découvrir ce que vous pouvez apporter.",
+    "button": {
+        "link": "/contact",
+        "label": "Inscrivez-vous maintenant"
+    },
+    "image": {
+        "url": "/img/photo/13.webp",
+        "alt": "image"
+    },
+    "avatar": {
+        "image": "/img/faces/lucas.webp",
+        "name": "Lucas De Matos",
+        "subname": "Chef de projet"
+    }
+}

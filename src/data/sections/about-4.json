@@ -1,0 +1,20 @@
+{
+    "title": "Media360",
+    "subtitle": "Nos Experts",
+    "description": "Nous sommes fiers de notre expertise et de notre engagement à fournir des résultats exceptionnels à nos clients.",
+    "image": {
+        "url": "/img/photo/14.webp",
+        "alt": "image"
+    },
+    "avatar": {
+        "image": "/img/faces/lucas.webp",
+        "name": "Lucas De Matos",
+        "subname": "Chef de Projet"
+    },
+    "items": [
+    "Plus de 43 sites web développés",
+    "Taux de satisfaction de 95%",
+    "Délai de réalisation de 10 jours",
+    "4 années d'expérience"
+]
+}

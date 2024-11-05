@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.media360.ch
+
+# Sitemaps
+Sitemap: https://www.media360.ch/sitemap.xml

@@ -1,0 +1,23 @@
+{
+    "title": "Origine et Passion",
+    "subtitle": "Notre Parcours",
+    "description": "Notre agence est née d'une passion pour le marketing digital et la création de sites web innovants. Avec pour objectif d'accompagner les entreprises dans leur transformation numérique, nous avons décidé de créer une structure dédiée à proposer des solutions efficaces, alliant créativité et performance.",
+    "button": {
+        "label": "Aperçu de projets",
+        "link": "/projects"
+    },
+    "items": [
+        {
+            "image": "/img/photo/8.webp",
+            "alt": "image"
+        },
+        {
+            "image": "/img/photo/7.webp",
+            "alt": "image"
+        },
+        {
+            "image": "/img/photo/1.webp",
+            "alt": "image"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "title": "Comment Media360 Vous Aide",
+    "subtitle": "Nos Solutions",
+    "items": [
+        {
+            "icon": "/img/icons/3.svg",
+            "num": "01.",
+            "title": "Création de Site Web",
+            "text": "Conception sur-mesure, ergonomique et performante qui convertit vos visiteurs en clients.",
+            "link": "/services/creation-site-web"
+        },
+        {
+            "icon": "/img/icons/4.svg",
+            "num": "02.",
+            "title": "Acquisition de Trafic",
+            "text": "Stratégies marketing ciblées pour attirer votre clientèle idéale et générer des leads qualifiés.",
+            "link": "/services/acquisition-trafic"
+        },
+        {
+            "icon": "/img/icons/5.svg",
+            "num": "03.",
+            "title": "Analyse & Optimisation",
+            "text": "Tableaux de bord personnalisés, suivi des performances pour maximiser vos résultats.",
+            "link": "/services/analyse-optimisation"
+        }
+    ]
+}

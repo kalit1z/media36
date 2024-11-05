@@ -1,0 +1,23 @@
+{
+    "title": "A well qualified staff",
+    "subtitle": "Solutions",
+    "description": "Our work staff in all areas and jobs are well qualified in the matters we need to achieve the objectives, in each project we carry out with our clients.",
+    "image": {
+        "url": "/img/photo/2.webp",
+        "alt": "image"
+    },
+    "items": [
+        {
+            "title": "Morphological Thinking",
+            "link": "/services/creation-site-web"
+        },
+        {
+            "title": "Creative Architectural",
+            "link": "/services/acquisition-trafic"
+        },
+        {
+            "title": "Planning Designs",
+            "link": "/services/analyse-optimisation"
+        }
+    ]
+}

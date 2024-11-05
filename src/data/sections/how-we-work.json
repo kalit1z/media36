@@ -1,0 +1,21 @@
+{
+    "title": "Là Où la Magie Opère Chez Media360",
+    "subtitle": "Notre Approche",
+    "items": [
+        {
+            "title": "Performance",
+            "icon": "/img/icons/7.svg",
+            "text": "Nous utilisons des méthodes éprouvées pour maximiser votre retour sur investissement, en travaillant avec une précision exemplaires."
+        },
+        {
+            "title": "Expertise",
+            "icon": "/img/icons/8.svg",
+            "text": "Notre équipe rassemble des spécialistes passionnés par leur domaine, assurant des solutions sur mesure adaptées à chaque projet."
+        },
+        {
+            "title": "Innovation",
+            "icon": "/img/icons/9.svg",
+            "text": "Grâce aux dernières technologies, nous offrons des stratégies performantes qui s'adaptent et évoluent avec les tendances du marché."
+        }
+    ]
+}

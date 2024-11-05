@@ -1,0 +1,17 @@
+{
+    "image": {
+        "url": "/img/photo/2.webp",
+        "alt": "img"
+    },
+    "number": {
+        "value": "25000",
+        "label": "<span class=\"mil-marker\">Visiteurs </span><br/>générés pour <br/>nos partenaires "
+    },
+    "title": "Votre Levier de Croissance",
+    "subtitle": "Au-delà du Site Web",
+    "description": "Nous ne créons pas simplement des sites internet, nous construisons des stratégies de croissance digitale. Chaque projet est une opportunité de transformer votre présence en ligne en un véritable levier de développement business, en attirant, engageant et convertissant vos clients potentiels.",
+    "button": {
+        "link": "/services",
+        "label": "Nos Prestations"
+    }
+}
