@@ -38,7 +38,7 @@ const AboutSection = () => {
                                     <img src={Data.image.url} alt={Data.image.alt} className="mil-scale" data-value-1="1" data-value-2="1.3" />
                                 </div>
                                 <div className="mil-about-counter">
-                                    <h1 className="mil-counter mil-right mil-mb-10" data-number={Data.number.value}>0</h1>
+                                    <h4 className="mil-counter mil-right mil-mb-10" data-number={Data.number.value}>0</h4>
                                     <h5 className="mil-upper mil-right" dangerouslySetInnerHTML={{__html : Data.number.label}} />
                                 </div>
                             </div>
