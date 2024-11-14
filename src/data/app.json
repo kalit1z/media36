@@ -88,6 +88,10 @@
             {
                 "name": "Blog",
                 "slug": "blog"
+            },
+            {
+                "name": "Affiliaton",
+                "slug": "affiliaton"
             }
         ]
     },
